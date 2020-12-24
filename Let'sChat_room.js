@@ -1,10 +1,12 @@
- var firebaseConfig = {
-   apiKey: "AIzaSyD_RVhk36Oq6D0-aWv7KuA32sg3hIlXTOg",
-   authDomain: "kwittwit.firebaseapp.com",
-   projectId: "kwittwit",
-   storageBucket: "kwittwit.appspot.com",
-   messagingSenderId: "601731185376",
-   appId: "1:601731185376:web:a4180f33b492679454ae85"
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyDVxm-Zs--YUvXg41q-b_H9WnfLSBLwSNE",
+    authDomain: "c-94-project.firebaseapp.com",
+    databaseURL: "https://c-94-project-default-rtdb.firebaseio.com",
+    projectId: "c-94-project",
+    storageBucket: "c-94-project.appspot.com",
+    messagingSenderId: "23593219528",
+    appId: "1:23593219528:web:10150b3e9a29f42703bcfd"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
